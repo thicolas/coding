@@ -1,0 +1,27 @@
+
+body{
+    background-image: url("https://static.dw.com/image/65437273_605.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+  }
+
+h1{color: rgb(186, 11, 11); 
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 700%;
+    display: inline;  
+    background-color: rgb(240, 207, 207,0.8); 
+    color: rgb(176, 26, 26); 
+    padding: 5px; 
+    position: relative;
+    top: 250px;
+    left: 250px;
+}
+
+div{
+    position: relative;
+    top: 700px;
+    
+}
